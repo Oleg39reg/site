@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:700$display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lato:700$display=swap");
+
+/* Стили обнуления. */
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+body {
+	/* color: #9a9a9a;
+	line-height: 1;
+	font-family: "Lato", sans-serif; */
+}
+/* ========================================================= */
+
+
+.Revolutionary {
+display: inline-block;
+color: #10375C;
+font-family: Lora;
+font-weight: normal;
+font-size: 52px;
+line-height: 67px;
+margin: 30px 30px 0px 30px;
+}
+
+.Revolutionary span{
+	color:#DD2C00 ;
+}
+
+.In_frispes {
+display: inline-block;
+color: #6A6A6A;
+font-family: Lato;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+margin: 30px 0px 0px 33px;
+}
+
+footer img{
+margin-right: 60px;
+margin-top: 50px;
+}
+.Logo{
+	margin-left: 60px;
+}
